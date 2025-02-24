@@ -7,4 +7,3 @@ Este é um projeto desenvolvido no primeiro semestre (2023) do curso de Ciência
 - Cadastro de usuários
 - Conexão com banco de dados
 - Interface gráfica para interação com o usuário
-)
